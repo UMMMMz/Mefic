@@ -1,12 +1,15 @@
 import React from "react";
-// import Header from "./Header";
+// import Navbar from "./Navbar";
 // import Footer from "./Footer";
-import Model from './Model'
+
 const Layout = ({ children }) => {
   return (
     <div>
-           
+      <header >
+header
+      </header>
       <main>{children}</main>
+      <footer>footer</footer>
     </div>
   );
 };

@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-three/drei": "^9.97.5",
     "@react-three/fiber": "^8.15.16",
     "gsap": "^3.12.5",
@@ -16,5 +17,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.161.0"
+=======
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.9",
+    "@mui/material": "^5.15.9",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+>>>>>>> main
   }
 }
